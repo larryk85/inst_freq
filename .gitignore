@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+.fake
+
+build/*
+.cache/*
+checks.json
+
